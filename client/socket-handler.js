@@ -1,4 +1,4 @@
-var socket = io.connect('http://localhost:8000')
+var socket = io.connect('http://localhost:3000')
 
 socket.on('Image:update', function (image) {
   var reader = new FileReader()

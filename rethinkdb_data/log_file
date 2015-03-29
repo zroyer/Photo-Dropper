@@ -1,0 +1,15 @@
+2015-03-29T15:39:40.121586000 0.661178s notice: Recursively removing directory /Users/zroyer/code/Photo-Dropper/rethinkdb_data/tmp
+2015-03-29T15:39:40.124340000 0.663938s notice: Initializing directory /Users/zroyer/code/Photo-Dropper/rethinkdb_data
+2015-03-29T15:39:40.124581000 0.664171s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/zroyer/code/Photo-Dropper/rethinkdb_data' did not already exist or is empty.)
+2015-03-29T15:39:40.124875000 0.664465s notice: Running rethinkdb 1.16.3 (CLANG 6.0 (clang-600.0.57))...
+2015-03-29T15:39:40.175053000 0.714645s notice: Running on Darwin 14.1.0 x86_64
+2015-03-29T15:39:40.175116000 0.714705s notice: Loading data from directory /Users/zroyer/code/Photo-Dropper/rethinkdb_data
+2015-03-29T15:39:42.186922000 2.726560s info: Automatically using cache size of 100 MB
+2015-03-29T15:39:42.186937000 2.726574s warn: Cache size does not leave much memory for server and query overhead (available memory: 295 MB).
+2015-03-29T15:39:42.186944000 2.726581s warn: Cache size is very low and may impact performance.
+2015-03-29T15:39:42.234178000 2.773816s notice: Listening for intracluster connections on port 29015
+2015-03-29T15:39:42.235211000 2.774848s notice: Listening for client driver connections on port 28015
+2015-03-29T15:39:42.235347000 2.774984s notice: Listening for administrative HTTP connections on port 8080
+2015-03-29T15:39:42.235349000 2.774985s notice: Listening on addresses: 127.0.0.1, ::1
+2015-03-29T15:39:42.235352000 2.774989s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-03-29T15:39:42.235355000 2.774992s notice: Server ready, "Zachs_MacBook_Pro_local_e7s" 5c143a62-ab28-4e6a-b48f-42c592026778

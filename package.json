@@ -1,7 +1,8 @@
 {
-  "name": "realtime-photo-tutorial",
+  "name": "photo-dropper",
   "version": "1.0.0",
-  "description": "A short tutorial on using RethinkDB for uploading/broadcasting images in realtime",
+  "description": "An app for uploading images and broadcasting them in realtime using RethinkDB, Express, socket.io, and Node.js
+",
   "main": "server/index.js",
   "dependencies": {
     "body-parser": "^1.12.2",
