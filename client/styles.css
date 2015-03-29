@@ -21,3 +21,29 @@
   width: 100%;
   height: auto;
 }
+
+#footer {
+  padding: 20px;
+  width:100%;
+  height:128px;
+  position:fixed;
+  bottom:0;
+  left:0;
+}
+
+#footer img {
+  width: 128px;
+  height: auto;
+  float: left;
+}
+
+#text {
+  padding: 30px;
+  border: #ccc solid 1px;
+  border-radius: 3px;
+  font: bold 17px/22px Helvetica, Arial, sans-serif;
+  text-decoration: none;
+  color: #333;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+  white-space: nowrap;
+}
