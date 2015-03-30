@@ -119,3 +119,19 @@
 2015-03-30T13:56:48.596481000 1.405563s notice: Listening on addresses: 127.0.0.1, ::1
 2015-03-30T13:56:48.596483000 1.405564s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
 2015-03-30T13:56:48.596486000 1.405568s notice: Server ready, "Zachs_MacBook_Pro_local_e7s" 5c143a62-ab28-4e6a-b48f-42c592026778
+2015-03-30T15:10:21.135906000 0.779816s notice: Running rethinkdb 1.16.3 (CLANG 6.0 (clang-600.0.57))...
+2015-03-30T15:10:21.175403000 0.819309s notice: Running on Darwin 14.1.0 x86_64
+2015-03-30T15:10:21.175455000 0.819358s notice: Loading data from directory /Users/zroyer/code/photo-dropper/rethinkdb_data
+2015-03-30T15:10:21.781808000 1.425712s info: Automatically using cache size of 216 MB
+2015-03-30T15:10:21.799682000 1.443585s notice: Listening for intracluster connections on port 29015
+2015-03-30T15:10:21.804462000 1.448368s notice: Listening for client driver connections on port 28015
+2015-03-30T15:10:21.804782000 1.448686s notice: Listening for administrative HTTP connections on port 8080
+2015-03-30T15:10:21.804788000 1.448691s notice: Listening on addresses: 127.0.0.1, ::1
+2015-03-30T15:10:21.804799000 1.448702s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-03-30T15:10:21.804806000 1.448709s notice: Server ready, "Zachs_MacBook_Pro_local_e7s" 5c143a62-ab28-4e6a-b48f-42c592026778
+2015-03-30T15:19:10.124822000 529.781820s error: Could not write to socket: Protocol wrong type for socket
+2015-03-30T15:19:14.200731000 533.857828s notice: Server got SIGINT from pid 343, uid 501; shutting down...
+2015-03-30T15:19:14.200966000 533.858064s notice: Shutting down client connections...
+2015-03-30T15:19:14.201302000 533.858400s notice: All client connections closed.
+2015-03-30T15:19:14.201322000 533.858419s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-03-30T15:19:14.208080000 533.865178s notice: Storage engine shut down.
