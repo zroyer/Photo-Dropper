@@ -95,3 +95,15 @@
 2015-03-30T09:52:38.975332000 1.495458s notice: Listening on addresses: 127.0.0.1, ::1
 2015-03-30T09:52:38.975336000 1.495462s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
 2015-03-30T09:52:38.975340000 1.495465s notice: Server ready, "Zachs_MacBook_Pro_local_e7s" 5c143a62-ab28-4e6a-b48f-42c592026778
+2015-03-30T12:40:34.515627000 0.762339s notice: Running rethinkdb 1.16.3 (CLANG 6.0 (clang-600.0.57))...
+2015-03-30T12:40:34.609664000 0.856371s notice: Running on Darwin 14.1.0 x86_64
+2015-03-30T12:40:34.609751000 0.856456s notice: Loading data from directory /Users/zroyer/code/photo-dropper/rethinkdb_data
+2015-03-30T12:40:35.367238000 1.613944s info: Automatically using cache size of 100 MB
+2015-03-30T12:40:35.367254000 1.613959s warn: Cache size does not leave much memory for server and query overhead (available memory: 995 MB).
+2015-03-30T12:40:35.367265000 1.613970s warn: Cache size is very low and may impact performance.
+2015-03-30T12:40:35.368182000 1.614887s notice: Listening for intracluster connections on port 29015
+2015-03-30T12:40:35.369325000 1.616030s notice: Listening for client driver connections on port 28015
+2015-03-30T12:40:35.369716000 1.616422s notice: Listening for administrative HTTP connections on port 8080
+2015-03-30T12:40:35.369731000 1.616436s notice: Listening on addresses: 127.0.0.1, ::1
+2015-03-30T12:40:35.369740000 1.616444s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-03-30T12:40:35.369748000 1.616453s notice: Server ready, "Zachs_MacBook_Pro_local_e7s" 5c143a62-ab28-4e6a-b48f-42c592026778
