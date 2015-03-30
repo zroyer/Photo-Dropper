@@ -9,7 +9,9 @@ var bodyParser = require('body-parser')
 var socketHandler = require('./socket-handler')
 var imageCreate = require('./image-create')
 
-server.listen(3000)
+server.listen(3000, function () {
+  console.log('Server listening at port 3000')
+});
 
 
 app.use(bodyParser.urlencoded({
