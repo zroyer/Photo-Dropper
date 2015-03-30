@@ -3,7 +3,7 @@ An app for uploading images and broadcasting them in realtime using RethinkDB, E
 
 ## Setup
 
-Make sure you have RethinkDB and Node.js installed. Then navigate to your Photo-Dropper directory and install all packages:
+Make sure you have RethinkDB and Node.js installed. Then navigate to your photo-dropper directory and install all packages:
 
 ```
 npm install
