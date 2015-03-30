@@ -1,7 +1,6 @@
 # Photo Dropper
 An app for uploading images and broadcasting them in realtime using RethinkDB, Express, socket.io, and Node.js
 
-![alt tag](https://github.com/zroyer/photo-dropper/blob/master/preview.gif)
 
 ## Setup
 
