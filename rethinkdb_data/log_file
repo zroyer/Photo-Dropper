@@ -165,3 +165,13 @@
 2015-03-30T18:13:17.709089000 899.326652s notice: All client connections closed.
 2015-03-30T18:13:17.709119000 899.326681s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
 2015-03-30T18:13:17.715719000 899.333282s notice: Storage engine shut down.
+2015-04-06T17:56:21.819196000 0.631202s notice: Running rethinkdb 1.16.3 (CLANG 6.0 (clang-600.0.57))...
+2015-04-06T17:56:21.848106000 0.660106s notice: Running on Darwin 14.1.0 x86_64
+2015-04-06T17:56:21.848182000 0.660180s notice: Loading data from directory /Users/zroyer/code/photo-dropper/rethinkdb_data
+2015-04-06T17:56:23.232056000 2.044099s info: Automatically using cache size of 1254 MB
+2015-04-06T17:56:23.232852000 2.044895s notice: Listening for intracluster connections on port 29015
+2015-04-06T17:56:23.234065000 2.046109s notice: Listening for client driver connections on port 28015
+2015-04-06T17:56:23.234328000 2.046371s notice: Listening for administrative HTTP connections on port 8080
+2015-04-06T17:56:23.234331000 2.046374s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-06T17:56:23.234337000 2.046380s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-06T17:56:23.234341000 2.046384s notice: Server ready, "Zachs_MacBook_Pro_local_e7s" 5c143a62-ab28-4e6a-b48f-42c592026778
