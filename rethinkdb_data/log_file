@@ -145,3 +145,23 @@
 2015-03-30T15:24:39.239075000 1.365404s notice: Listening on addresses: 127.0.0.1, ::1
 2015-03-30T15:24:39.239077000 1.365406s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
 2015-03-30T15:24:39.239087000 1.365415s notice: Server ready, "Zachs_MacBook_Pro_local_e7s" 5c143a62-ab28-4e6a-b48f-42c592026778
+2015-03-30T15:25:30.959324000 53.086913s notice: Server got SIGINT from pid 343, uid 501; shutting down...
+2015-03-30T15:25:30.959580000 53.087169s notice: Shutting down client connections...
+2015-03-30T15:25:30.959946000 53.087534s notice: All client connections closed.
+2015-03-30T15:25:30.959971000 53.087559s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-03-30T15:25:30.966447000 53.094035s notice: Storage engine shut down.
+2015-03-30T17:58:18.556420000 0.151069s notice: Running rethinkdb 1.16.3 (CLANG 6.0 (clang-600.0.57))...
+2015-03-30T17:58:18.644675000 0.239320s notice: Running on Darwin 14.1.0 x86_64
+2015-03-30T17:58:18.644788000 0.239430s notice: Loading data from directory /Users/zroyer/code/photo-dropper/rethinkdb_data
+2015-03-30T17:58:19.350683000 0.945325s info: Automatically using cache size of 136 MB
+2015-03-30T17:58:19.351590000 0.946232s notice: Listening for intracluster connections on port 29015
+2015-03-30T17:58:19.353062000 0.947704s notice: Listening for client driver connections on port 28015
+2015-03-30T17:58:19.353255000 0.947897s notice: Listening for administrative HTTP connections on port 8080
+2015-03-30T17:58:19.353271000 0.947913s notice: Listening on addresses: 127.0.0.1, ::1
+2015-03-30T17:58:19.353278000 0.947920s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-03-30T17:58:19.353286000 0.947927s notice: Server ready, "Zachs_MacBook_Pro_local_e7s" 5c143a62-ab28-4e6a-b48f-42c592026778
+2015-03-30T18:13:17.426295000 899.043858s notice: Server got SIGINT from pid 343, uid 501; shutting down...
+2015-03-30T18:13:17.426700000 899.044262s notice: Shutting down client connections...
+2015-03-30T18:13:17.709089000 899.326652s notice: All client connections closed.
+2015-03-30T18:13:17.709119000 899.326681s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-03-30T18:13:17.715719000 899.333282s notice: Storage engine shut down.
