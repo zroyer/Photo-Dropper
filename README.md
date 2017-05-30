@@ -1,4 +1,4 @@
-# Photo Dropper
+# Photo Dropper 💧
 An app for uploading images and broadcasting them in realtime using RethinkDB, Express, socket.io, and Node.js
 
 ## Demo
@@ -19,7 +19,7 @@ Start the server:
 rethinkDB
 ```
 
-After that, run the server:
+After that, start the server:
 
 ```
 node server/index.js
